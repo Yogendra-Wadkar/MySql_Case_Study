@@ -18,12 +18,14 @@ Music Sales Analysis: Explored music sales data using MySQL and advanced SQL tec
 ## Schema Diagram
 <img width="594" alt="schema_diagram" src="https://github.com/Yogendra-Wadkar/Sql_Case_Study/assets/134367735/9d3a5847-8073-43fa-8b1c-ad781e0f1671">
 
-
 ## Results
 The analysis in this project offers meaningful insights into music sales trends, customer preferences, and revenue generation. By applying SQL techniques effectively, we were able to extract actionable insights from the vast music sales dataset.
 
 ## Contributions
 Contributions to this project are welcome! If you discover any issues, have suggestions, or want to add new analyses, please feel free to open an issue or submit a pull request.
- 
+
+## Note
+For detailed insights and in-depth analysis of the Music Sales project, please refer to the 'description' folder in this repository."
+
 ## Contact
 For any inquiries or feedback, please contact me at www.linkedin.com/in/yogendra-wadkar.
