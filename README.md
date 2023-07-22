@@ -16,6 +16,7 @@ Music Sales Analysis: Explored music sales data using MySQL and advanced SQL tec
   
 
 ## Schema Diagram
+<img width="594" alt="schema_diagram" src="https://github.com/Yogendra-Wadkar/Sql_Case_Study/assets/134367735/9d3a5847-8073-43fa-8b1c-ad781e0f1671">
 
 
 ## Results
